@@ -25,6 +25,7 @@
         android:orientation="horizontal"
         android:layout_weight="1">
 
+
         <Button
             android:id="@+id/bPlay"
             android:layout_width="0dp"
@@ -35,11 +36,11 @@
             android:textColor="#000000"
             android:textSize="45sp"
             android:layout_margin="10dp"
-            android:background="#8A3B3349"
-            android:backgroundTint="#7C2C1D1D"
+            android:background="#CBC3E3"
             android:outlineProvider="paddedBounds"
             app:cornerRadius="10dp"
-            app:iconTint="#402929" />
+
+            />
 
         <Button
             android:id="@+id/bHighscores"
@@ -51,7 +52,9 @@
             android:textColor="#000000"
             android:textSize="45sp"
             android:layout_margin="10dp"
-            android:background="#66FFFFFF" />
+            android:background="#CBC3E3"
+
+            />
 
     </LinearLayout>
 </LinearLayout>
