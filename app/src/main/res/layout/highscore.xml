@@ -6,17 +6,6 @@
     android:layout_margin="10dp"
     android:orientation="vertical">
 
-    <Button
-        android:id="@+id/bBack"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_weight="0"
-        android:background="#46757575"
-        android:text="BACK"
-        android:textAlignment="center"
-        android:textColor="#000000"
-        android:textStyle="bold"
-        app:cornerRadius="10dp" />
 
     <LinearLayout
         android:layout_width="match_parent"
